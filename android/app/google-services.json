@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "120964010041",
+    "project_id": "sound-of-ai",
+    "storage_bucket": "sound-of-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120964010041:android:bcf47d1296691a38e8fde8",
+        "android_client_info": {
+          "package_name": "com.example.sound_of_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120964010041-11qg0phdean2gdontbptsf55ag465vpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUdtwaHqRVJfcVhjxezWLWabYZhmV9EOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120964010041-11qg0phdean2gdontbptsf55ag465vpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
